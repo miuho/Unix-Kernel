@@ -1,7 +1,7 @@
 # Unix-Kernel
 
-@author Hingon Miu (hmiu)
-@author An Wu (anwu)
+Hingon Miu (hmiu)
+An Wu (anwu)
 
 1. Data Structures (kern/data_structures/):
 
